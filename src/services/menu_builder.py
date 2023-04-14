@@ -42,4 +42,3 @@ class MenuBuilder:
         df = pd.DataFrame(dict)
 
         return df
-        
